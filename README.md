@@ -6,7 +6,7 @@ All zip files will be unzipped to folders with the name of the corresponding fil
 ## note: it is not support processing of subdirectories
 
 ## You can select folder by
-* folder exe was launched
+* folder in which exe was launched
 * second parametr when launch from console, example: 
 ```
 Unzip.exe D:\folder1\destination_folder 

@@ -1,7 +1,10 @@
 # UnZipAll
 Unzip all zip files in selected folder.
+
 All zip files will be unzipped to folders with the name of the corresponding file name
-#ote: it is not support processing of subdirectories
+
+#note: it is not support processing of subdirectories
+
 ##You can select folder by
 * folder exe was launched
 * second parametr when launch from console, example: 
